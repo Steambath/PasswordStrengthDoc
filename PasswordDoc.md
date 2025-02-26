@@ -32,9 +32,13 @@ Easily guessable personal details (birthdays, username, pet names) make it easie
 As well as other tools having information to scrape and collect the information automatically making it easier to guess.
 If your birthday includes is something like a pet named `Emily` using a password like `Emily1234` could be used or `PetEmily1234` is an insecure choice as this can be guessed by malicious actors.  
 ### **Lack of Complexity**
-
+If a password is too simple, i.e. not including special characters, digits, and upper and lower case, this makes it easier for automated tools to guess. This is due to having less combinations which can be guessed for a password. Meaning it will take less time to process out a response of guesses. The same applies if its known guessable words, as they maybe at the top of dictionary attacks or included in those lists as they are a combination of words people use.
+Say if an individual had a password only made up of upper case characters at a length of 8 digits, this would only mean 26 combinations of characters for 6 characters. Meaning a guess of only 308915776 (26^6) combinations which won't take a machine long to automate and go through that process. 
+However if an individual has a special character, a digit and lower/upper case within the password, it means 94 possible combinations are avaliable for a single word, taking 308915776 (26^6) to 689869781056 (94^6) which is less feasable for a computer to guess.
 ### **Reused Passwords**
-
+It's also important to not reuse passwords. Your password may already be avaliable on a website that has already been compromised originally. Therefore meaning it is in a wordlist a malicious individual can use to brute force other websites and accounts. Meaning your other logins can also be compromised due to using the same password. 
+To check what accounts your details have been compromised on you can look at https://haveibeenpwned.com/ 
+This checking if the individual breaches have effected your account and take action accordingly.
 ### **Lack of Two-Factor Authentication**
 
 ## Importance of a strong password
