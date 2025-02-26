@@ -40,9 +40,9 @@ It's also important to not reuse passwords. Your password may already be avaliab
 To check what accounts your details have been compromised on you can look at https://haveibeenpwned.com/ 
 This checking if the individual breaches have effected your account and take action accordingly.
 ### **Lack of Two-Factor Authentication**
-
+While not inherit to passwords directly, this is an important mention. As it allows for more layers of protection if your password is compromised, due to an authenticator being provided. Compensating for weak passowrds as well as giving more awareness for when your password has been compromised, reacting to protect your account further. 
 ## Importance of a strong password
-
+While understanding why an individuals password maybe insecure. You may not understand the consequence of not having a strong password and the importance of having a strong password.
 
 ## How to make a strong password 
 
