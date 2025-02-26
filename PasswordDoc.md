@@ -7,7 +7,8 @@ Despite the growing alternatives in place like biometrics, and one time password
 - **Wide support** across services and applications with tools built in and avaliable on all services
 - **Universal applicability**, working across a vast amount of applications types, without causing compatability issues or dependancies needed for other applications
 
-![Authentication Factors](https://images.ctfassets.net/xqb1f63q68s1/6zYhZbrGuVkpM6oobfPeUB/40ed75192d4f99ce898a2ec85e793af3/Authentication_Factors.png)
+![Authentication Factors Diagram](https://images.ctfassets.net/xqb1f63q68s1/6zYhZbrGuVkpM6oobfPeUB/40ed75192d4f99ce898a2ec85e793af3/Authentication_Factors.png)
+
 https://www.descope.com/learn/post/authentication-types
 
 With this in mind passwords are likely going to remain a key security tool for a large amount of time. However this is only based on the user's behaviour and attitude to passwords. Therefore its essential as a security measure, and important for a user to understand keep secure password hygiene.
@@ -43,6 +44,10 @@ If your birthday includes is something like a pet named `Emily` using a password
 
 ### **Lack of Complexity**
 If a password is too simple, i.e. not including special characters, digits, and upper and lower case, this makes it easier for automated tools to guess. This is due to having less combinations which can be guessed for a password. Meaning it will take less time to process out a response of guesses. The same applies if its known guessable words, as they maybe at the top of dictionary attacks or included in those lists as they are a combination of words people use.
+
+![Diagram showing what makes weak and strong passwords](https://www.keepersecurity.com/blog/wp-content/uploads/2023/07/Tips-and-Rules-for-a-Strong-Password.png)
+
+https://www.keepersecurity.com/blog/2023/07/18/top-five-password-security-tips/
 
 Say if an individual had a password only made up of upper case characters at a length of 8 digits, this would only mean 26 combinations of characters for 6 characters. Meaning a guess of only 308915776 (26^6) combinations which won't take a machine long to automate and go through that process. 
 However if an individual has a special character, a digit and lower/upper case within the password, it means 94 possible combinations are avaliable for a single word, taking 308915776 (26^6) to 689869781056 (94^6) which is less feasable for a computer to guess.
@@ -80,7 +85,10 @@ If using a weak password a malicious actor can easily guess this. Once gaining a
 Weak passwords increase the chance of impersonations, using personal details you would know to open accounts in your name, commit fraud or apply for local loans just by having your personal information.
 
 ### **Financial Loss**
-If a weak password protects your bank account, an individual can take `access` of your bank account. Making online purchases, payment apps, or send to other individuals making unauthorised transactions on the account.
+If a weak password protects your bank account, an individual can take `access` of your bank account. Making online purchases, payment apps, or send to other individuals making unauthorised transactions on the account. Another type is ransomware attacks, which would lead to more financial loss.
+
+![Image showing how weak passwords can lead to ransomware attacks, and financial loss](https://www.keepersecurity.com/blog/wp-content/uploads/2024/02/How-a-weak-password-can-lead-to-a-ransomware-attack-1.png)
+https://www.keepersecurity.com/blog/2024/02/29/how-weak-passwords-lead-to-ransomware-attacks/
 
 ### **Damage of Reputation**
 A weak password could be used on a social media account or work account. If this gets breached the malicious actor may post inapproriate content, spread misinformation or access private conversations on the account. This can harm your relationship to other individuals or workplaces.
@@ -122,6 +130,9 @@ Alterantive tools can be used to produce a strong password, consider using:
 - **Multi-Factor Authentication** as it can allow for you to be alerted if your password is compromised and as another layer as security
 - **Password Managers** can be a tool for consideration, as you can generate complex passwords for all accounts. Securely storing your passwords in place, however it is questionable depending on the software used.
 
+![Diagram showing how Password managers work with passwords](https://delinea.com/hs-fs/hubfs/delinea-how-does-a-password-manager-work-blog.png?width=750&name=delinea-how-does-a-password-manager-work-blog.png)
+
+https://delinea.com/blog/beyond-password-managers-to-pam-solutions
 
 ## Examples
 Heres a small list of contained passwords randomly generated being very secure:
@@ -134,11 +145,3 @@ Heres a small list of contained passwords randomly generated being very secure:
 - 941l@)Am:r@_&3f
 
 Another tool for further generation maybe https://www.lastpass.com/features/password-generator
-
-
-
-
-
-
-## Examples of a strong password
-
